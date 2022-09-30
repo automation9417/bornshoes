@@ -1,0 +1,847 @@
+﻿{
+  "id": "1570a02c-d698-4e66-8119-98a4d53afb1e",
+  "name": "bornshoes",
+  "nodes": [],
+  "locators": [
+    {
+      "id": "ff014b61-ead2-4c08-aa90-91e4267f6201",
+      "name": "btn_search",
+      "filePath": "0f72d00a-5665-4c95-a1ac-293b13f820c6.jpg",
+      "content": {
+        "automationType": "Chrome",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "role": {
+                "value": "window"
+              },
+              "title": {
+                "value": "Handcrafted Men's and Women's Shoes &amp; Boots | Born Shoes",
+                "excluded": false
+              },
+              "url": {
+                "value": "https://www.bornshoes.com/",
+                "excluded": true
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Tab"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "tag": {
+                    "value": "svg"
+                  },
+                  "class": {
+                    "value": "search svg--primary",
+                    "excluded": true
+                  },
+                  "ancestorId": {
+                    "value": "search-bttn"
+                  },
+                  "ancestorClass": {
+                    "value": "icon--primary",
+                    "excluded": true
+                  },
+                  "isLeaf": {
+                    "value": "0",
+                    "excluded": true
+                  },
+                  "cssSelector": {
+                    "value": "body>div>header>div>div>nav>ul>li>button>span>span>svg",
+                    "excluded": true
+                  },
+                  "tableRow": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "tableCol": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "controlMetaType": "Web",
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  }
+                },
+                "childControls": [],
+                "excluded": false
+              }
+            ],
+            "excluded": false
+          }
+        ],
+        "parameters": {
+          "excluded": true,
+          "operator": "equals",
+          "value": ""
+        }
+      }
+    },
+    {
+      "id": "7ad4e442-eaf0-4801-9e9b-209e00b0f7dd",
+      "name": "txt_search",
+      "filePath": "bb82da9c-e17a-48a7-8410-064ba697f544.jpg",
+      "content": {
+        "automationType": "Chrome",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "role": {
+                "value": "window"
+              },
+              "title": {
+                "value": "Handcrafted Men's and Women's Shoes &amp; Boots | Born Shoes"
+              },
+              "url": {
+                "value": "https://www.bornshoes.com/",
+                "excluded": true
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Tab"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "tag": {
+                    "value": "INPUT"
+                  },
+                  "class": {
+                    "value": "form-control search-field mr-sm-2 mb-2 mb-sm-0",
+                    "excluded": true
+                  },
+                  "type": {
+                    "value": "search",
+                    "excluded": true
+                  },
+                  "ancestorId": {
+                    "value": "search-disclosure",
+                    "excluded": true
+                  },
+                  "ancestorName": {
+                    "value": "simpleSearch",
+                    "excluded": true
+                  },
+                  "ancestorClass": {
+                    "value": "d-flex flex-column flex-sm-row",
+                    "excluded": true
+                  },
+                  "isLeaf": {
+                    "value": "1",
+                    "excluded": true
+                  },
+                  "cssSelector": {
+                    "value": "body>div>div>div>form>input",
+                    "excluded": true
+                  },
+                  "tableRow": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "tableCol": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "controlMetaType": "Web",
+                  "name": {
+                    "value": "q"
+                  },
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  },
+                  "placeholder": {
+                    "isCustom": true,
+                    "value": "search (name, style# or keyword)",
+                    "operator": "equals",
+                    "excluded": true
+                  },
+                  "aria-haspopup": {
+                    "isCustom": true,
+                    "value": "listbox",
+                    "operator": "equals",
+                    "excluded": true
+                  },
+                  "aria-autocomplete": {
+                    "isCustom": true,
+                    "value": "list",
+                    "operator": "equals",
+                    "excluded": true
+                  },
+                  "aria-label": {
+                    "isCustom": true,
+                    "value": "Enter Keyword or Item No.",
+                    "operator": "equals",
+                    "excluded": true
+                  },
+                  "autocomplete": {
+                    "isCustom": true,
+                    "value": "off",
+                    "operator": "equals",
+                    "excluded": true
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "125d5141-ba61-4116-840d-9c323aacedb7",
+      "name": "btn_do_search",
+      "filePath": "fa969037-e026-4717-9aca-5617ca2ace65.jpg",
+      "content": {
+        "automationType": "Chrome",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "role": {
+                "value": "window"
+              },
+              "title": {
+                "value": "Handcrafted Men's and Women's Shoes &amp; Boots | Born Shoes"
+              },
+              "url": {
+                "value": "https://www.bornshoes.com/",
+                "excluded": true
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Tab"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "tag": {
+                    "value": "BUTTON"
+                  },
+                  "class": {
+                    "value": "bhsh-btn bhsh-btn-5 size-med text--upper search-suggestions",
+                    "excluded": true
+                  },
+                  "type": {
+                    "value": "submit",
+                    "excluded": true
+                  },
+                  "ancestorId": {
+                    "value": "search-disclosure",
+                    "excluded": true
+                  },
+                  "ancestorName": {
+                    "value": "simpleSearch",
+                    "excluded": true
+                  },
+                  "ancestorClass": {
+                    "value": "d-flex flex-column flex-sm-row",
+                    "excluded": true
+                  },
+                  "isLeaf": {
+                    "value": "1",
+                    "excluded": true
+                  },
+                  "cssSelector": {
+                    "value": "body>div>div>div>form>button",
+                    "excluded": true
+                  },
+                  "sInfo": {
+                    "value": "Search",
+                    "excluded": true
+                  },
+                  "tableRow": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "tableCol": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "controlMetaType": "Web",
+                  "name": {
+                    "value": "search-button"
+                  },
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  },
+                  "aria-label": {
+                    "isCustom": true,
+                    "value": "Submit search keywords",
+                    "operator": "equals",
+                    "excluded": true
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "540aea4b-dc70-418a-a5f3-dbaa573733c4",
+      "name": "select_item",
+      "filePath": "2aef4490-98d1-496e-ac49-4b27486d4825.jpg",
+      "content": {
+        "automationType": "Chrome",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "role": {
+                "value": "window"
+              },
+              "title": {
+                "value": "Search Results | Born Shoes"
+              },
+              "url": {
+                "value": "https://www.bornshoes.com/en/search?q=boots&lang=null&search-button=",
+                "excluded": true
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Tab"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "tag": {
+                    "value": "SELECT"
+                  },
+                  "class": {
+                    "value": "custom-select custom-select-grey",
+                    "excluded": true
+                  },
+                  "type": {
+                    "value": "select-one",
+                    "excluded": true
+                  },
+                  "ancestorId": {
+                    "value": "product-search-results",
+                    "excluded": true
+                  },
+                  "ancestorClass": {
+                    "value": "col-7 col-sm-7 m-sortButton col-md-12 order-sm-1",
+                    "excluded": true
+                  },
+                  "isLeaf": {
+                    "value": "0",
+                    "excluded": true
+                  },
+                  "cssSelector": {
+                    "value": "body>wainclude>div>div>div>div>div>div>div>div>div>div>div>div>div>div>select",
+                    "excluded": true
+                  },
+                  "tableRow": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "tableCol": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "controlMetaType": "Web",
+                  "name": {
+                    "value": "sort-order",
+                    "excluded": true
+                  },
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  },
+                  "aria-label": {
+                    "isCustom": true,
+                    "value": "sort results",
+                    "operator": "equals",
+                    "excluded": true
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "f5967c35-9514-4887-8c33-215adb9020dd",
+      "name": "similar_img",
+      "filePath": "1898f3a8-f5c0-4acd-8c06-59c5044a9e5a.jpg",
+      "content": {
+        "automationType": "Chrome",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "role": {
+                "value": "window"
+              },
+              "title": {
+                "value": "Search Results | Born Shoes"
+              },
+              "url": {
+                "value": "https://www.bornshoes.com/en/search?q=boots&lang=null&search-button=",
+                "excluded": true
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Tab"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "tag": {
+                    "value": "A"
+                  },
+                  "class": {
+                    "value": "pdt-img-seg"
+                  },
+                  "ancestorId": {
+                    "value": "product-search-results"
+                  },
+                  "ancestorClass": {
+                    "value": "product-images"
+                  },
+                  "isLeaf": {
+                    "value": "0",
+                    "excluded": true
+                  },
+                  "cssSelector": {
+                    "value": "body>wainclude>div>div>div>div>div>div>div>div>div>div>ul>li>div>figure>div>div>div>a"
+                  },
+                  "tableRow": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "tableCol": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "href": {
+                    "value": "https://www.bornshoes.com/en/*"
+                  },
+                  "controlMetaType": "Web",
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5f52f03f-8202-49ad-878e-d1764fae5165",
+      "name": "similar_price",
+      "filePath": "739a9c40-38f2-488f-a4a5-9d9e47f0730a.jpg",
+      "content": {
+        "automationType": "Chrome",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "role": {
+                "value": "window"
+              },
+              "title": {
+                "value": "Search Results | Born Shoes"
+              },
+              "url": {
+                "value": "https://www.bornshoes.com/en/search?q=boots&lang=null&search-button=",
+                "excluded": true
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Tab"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "tag": {
+                    "value": "SPAN"
+                  },
+                  "class": {
+                    "value": "*-price value"
+                  },
+                  "ancestorId": {
+                    "value": "product-search-results"
+                  },
+                  "ancestorClass": {
+                    "value": "sales"
+                  },
+                  "isLeaf": {
+                    "value": "1"
+                  },
+                  "cssSelector": {
+                    "value": "body>wainclude>div>div>div>div>div>div>div>div>div>div>ul>li>div>figure>div>div>span>span>span"
+                  },
+                  "sInfo": {
+                    "value": "$*"
+                  },
+                  "tableRow": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "tableCol": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "controlMetaType": "Web",
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  },
+                  "content": {
+                    "isCustom": true,
+                    "value": "220.00",
+                    "operator": "equals",
+                    "excluded": true
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "b5c64024-3769-43db-8f78-79e6b8d0f2ab",
+      "name": "div_page_size",
+      "filePath": "7374ced1-d279-441c-8740-54157751b854.jpg",
+      "content": {
+        "automationType": "Chrome",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "role": {
+                "value": "window"
+              },
+              "title": {
+                "value": "Search Results | Born Shoes"
+              },
+              "url": {
+                "value": "https://www.bornshoes.com/en/search?q=boots&lang=null&search-button=",
+                "excluded": true
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Tab"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "tag": {
+                    "value": "DIV"
+                  },
+                  "class": {
+                    "value": "col col-md-3 col-lg-2 showing-of mt-4 mt-md-0 mt-lg-3"
+                  },
+                  "ancestorId": {
+                    "value": "product-search-results"
+                  },
+                  "ancestorClass": {
+                    "value": "row no-gutters",
+                    "excluded": true
+                  },
+                  "isLeaf": {
+                    "value": "0",
+                    "excluded": true
+                  },
+                  "cssSelector": {
+                    "value": "body>wainclude>div>div>div>div>div>div>div>div>div>div>ul>li>div>div>div",
+                    "excluded": true
+                  },
+                  "sInfo": {
+                    "value": "Showing 48 of 58:",
+                    "excluded": true
+                  },
+                  "tableRow": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "tableCol": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "controlMetaType": "Web",
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  },
+                  "aria-describedby": {
+                    "isCustom": true,
+                    "value": "grid-results",
+                    "operator": "equals",
+                    "excluded": true
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "e480ed66-7c13-402a-b41f-5b7cba7fa760",
+      "name": "btn_show_all",
+      "filePath": "74b0bb6a-87ac-4b23-a742-e3bf56e934eb.jpg",
+      "content": {
+        "automationType": "Chrome",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "role": {
+                "value": "window"
+              },
+              "title": {
+                "value": "Search Results | Born Shoes"
+              },
+              "url": {
+                "value": "https://www.bornshoes.com/en/search?q=boots&lang=null&search-button=",
+                "excluded": true
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Tab"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "tag": {
+                    "value": "BUTTON"
+                  },
+                  "class": {
+                    "value": "bhsh-btn bhsh-btn-1 show-all-button col-12 col-md-6 mt-3 mt-md-0 mb-2 mb-md-0 all",
+                    "excluded": true
+                  },
+                  "type": {
+                    "value": "submit"
+                  },
+                  "ancestorId": {
+                    "value": "product-search-results"
+                  },
+                  "ancestorClass": {
+                    "value": "col-md-9 col-lg-10 px-0 show-more-all-btn-group",
+                    "excluded": true
+                  },
+                  "isLeaf": {
+                    "value": "0",
+                    "excluded": true
+                  },
+                  "cssSelector": {
+                    "value": "body>wainclude>div>div>div>div>div>div>div>div>div>div>ul>li>div>div>div>button",
+                    "excluded": true
+                  },
+                  "sInfo": {
+                    "value": "Show All (58) results found"
+                  },
+                  "tableRow": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "tableCol": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "controlMetaType": "Web",
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  },
+                  "data-url": {
+                    "isCustom": true,
+                    "value": "https://www.bornshoes.com/on/demandware.store/Sites-BornShoes-Site/en_US/Search-UpdateGrid?q=boots&srule=most-popular&start=48&sz=10",
+                    "operator": "equals",
+                    "excluded": true
+                  },
+                  "role": {
+                    "isCustom": true,
+                    "value": "button",
+                    "operator": "equals",
+                    "excluded": true
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "21423f72-001d-4212-914c-6e1d18dfbb99",
+      "name": "btn_show_more",
+      "filePath": "f9e07b6e-a023-4cbc-ad1b-ce0b9b9a4b2a.jpg",
+      "content": {
+        "automationType": "Chrome",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "role": {
+                "value": "window"
+              },
+              "title": {
+                "value": "Search Results | Born Shoes"
+              },
+              "url": {
+                "value": "https://www.bornshoes.com/en/search?q=boots&lang=en_US&search-button=",
+                "excluded": true
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Tab"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "tag": {
+                    "value": "BUTTON"
+                  },
+                  "class": {
+                    "value": "bhsh-btn bhsh-btn-5 show-more-button col-12 col-md-6 more",
+                    "excluded": true
+                  },
+                  "type": {
+                    "value": "submit"
+                  },
+                  "ancestorId": {
+                    "value": "product-search-results"
+                  },
+                  "ancestorClass": {
+                    "value": "col-md-9 col-lg-10 px-0 show-more-all-btn-group btn-group",
+                    "excluded": true
+                  },
+                  "isLeaf": {
+                    "value": "0",
+                    "excluded": true
+                  },
+                  "cssSelector": {
+                    "value": "body>wainclude>div>div>div>div>div>div>div>div>div>div>ul>li>div>div>div>button",
+                    "excluded": true
+                  },
+                  "sInfo": {
+                    "value": "Show More results found"
+                  },
+                  "tableRow": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "tableCol": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "controlMetaType": "Web",
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  },
+                  "data-url": {
+                    "isCustom": true,
+                    "value": "https://www.bornshoes.com/on/demandware.store/Sites-BornShoes-Site/en_US/Search-UpdateGrid?q=boots&start=24&sz=24",
+                    "operator": "equals",
+                    "excluded": true
+                  },
+                  "role": {
+                    "isCustom": true,
+                    "value": "button",
+                    "operator": "equals",
+                    "excluded": true
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
